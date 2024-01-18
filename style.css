@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo-font{
+    font-family: 'Montserrat', sans-serif;
+}
+.title-font{
+    font-family: 'Bebas Neue', sans-serif;
+}
+.primary-font{
+    font-family: 'Roboto', sans-serif;
+}
