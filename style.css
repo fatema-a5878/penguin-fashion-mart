@@ -11,3 +11,6 @@
 .primary-font{
     font-family: 'Roboto', sans-serif;
 }
+.navbar a:hover{
+    color: #eab308;
+}
