@@ -14,3 +14,18 @@
 .navbar a:hover{
     color: #eab308;
 }
+.banner-title{
+    max-width: 550px;
+}
+.banner-btn:hover{
+    border: 3px solid #A4BC46;
+    background: #FFFBF0;
+    color: #A4BC46;
+}
+.cart{
+    max-width: 370px;
+    max-height: 550px;
+}
+.woman{
+    padding-left: 250px;
+}
