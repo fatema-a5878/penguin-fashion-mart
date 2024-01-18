@@ -29,3 +29,7 @@
 .woman{
     padding-left: 250px;
 }
+.column-sec > img{
+    width: 35.625rem;
+    height: 21.375rem;
+}
